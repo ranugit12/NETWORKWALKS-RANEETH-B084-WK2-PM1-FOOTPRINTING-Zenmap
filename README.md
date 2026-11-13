@@ -2,6 +2,9 @@
 ## 📌 Project overview
 This project contains the practical implementations of reconnaissance and the tools used to gather information from a company such as NETWORKWALKS in Week 2 project module 1 and using Zenmap to find live hosts on my Subnet and save the topology for analysis in week 2 project module 5. The project also contains the final report containing evidence of work.
 
+Screenshots of the evidence are provided in this repository.
+
+
 ## 🔨 Activities performed
 **Reconnaissance** : I used the below tools to perform a Recon on NETWORKWALKS with proper                                  authorization.
 
@@ -12,5 +15,15 @@ This project contains the practical implementations of reconnaissance and the to
  - wafw00f: Detect whether a Web Application Firewall protects the site. Result: **ModSecurity (SpiderLabs)**.
  - dnsrecon: Enumerate all DNS records (NS, MX, SPF, TXT, SRV).
 
+**Network Scanning via Zenmap**: I used Zenmap to perform a network discovery on my local network. The task requires me to find my local IP address and subnet. All documentations are in this repository.
 
+
+## ⚠️ Warning
+These contents are meant to be used for educational purposes only. Any misuse of this will result in job loss, penalties, etc..
+
+## Author
+Raneeth Jayaratne
+
+## Project information
+Instructor: Waqas Karim CCIE | Batch: B084 | Program name: Cybersecurity intern @NETWORKWALKS.
 
