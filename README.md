@@ -5,6 +5,6 @@ This project contains the practical implementations of reconnaissance and the to
 ## 🔨 Activities performed
 **Reconnaissance** : I used the below tools to perform a Recon on NETWORKWALKS with proper                                  authorization
 
-                    **WHOIS** : 
+                    ~WHOIS 
 
 
